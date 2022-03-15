@@ -1,0 +1,19 @@
+.action__btn {
+    margin: 0 5px;
+  
+}
+
+.create__btn {
+    margin: 10px 0;
+    
+}
+#addr{
+    font-size: 19px;
+    color: blue;
+    border-bottom: 5px solid blue;
+}
+
+.table_hed{
+    background:rgb(4, 4, 250);
+    color: white;
+}

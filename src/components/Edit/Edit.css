@@ -1,0 +1,15 @@
+.edit {
+    max-width: 20%;
+    margin-left: 40%;
+}
+
+.action_btn{
+    margin: 0 5px;
+}
+.home_btn{
+    color:rgb(144, 146, 148);
+    margin-left: 780px;
+    position: relative;
+    bottom: 480px;
+    font-size: 30px;
+}

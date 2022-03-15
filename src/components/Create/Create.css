@@ -1,0 +1,17 @@
+.create {
+    max-width: 20%;
+    margin-left: 40%;
+  position: relative;
+
+}
+
+.action_btn{
+    margin: 0 5px;
+}
+#home{
+    color: rgb(144, 146, 148);
+margin-left: 780px;
+position: relative;
+font-size: 30px;
+bottom: 500px;
+}
